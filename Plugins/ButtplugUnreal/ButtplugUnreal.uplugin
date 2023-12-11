@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"EngineVersion":  "5.3.0",
+	"FriendlyName": "Buttplug Unreal",
+	"Description": "Buttplug IoST Protocol client support for Unreal Engine",
+	"Category": "IOT",
+	"CreatedBy": "Christopher Durham",
+	"CreatedByURL": "https://cad97.com/",
+	"DocsURL": "https://github.com/CAD97/ButtplugUnreal/wiki",
+	"SupportURL": "https://github.com/CAD97/ButtplugUnreal/discussions",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Buttplug",
+			"Type": "ClientOnlyNoCommandlet",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Linux", "LinuxArm64", "Mac", "Win64" ]
+		}
+	]
+}

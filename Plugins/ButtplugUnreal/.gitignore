@@ -1,0 +1,15 @@
+# Ignore everything
+/*
+
+# Include the plugin packaged files/directories
+!/Config/
+!/Content/
+!/Resources/
+!/Source/
+!/.gitattributes
+!/.gitignore
+!/ButtplugUnreal.uplugin
+!/LICENSE.txt
+!/README.md
+
+# Remember to update Config/FilterPlugin.ini when adding new inclusions!
