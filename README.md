@@ -2,7 +2,7 @@
 
 The root folder of this repository is a simple example project using the
 Buttplug Unreal plugin, as well as serving as the development environment
-for the plugin. For the actual plugin, see [./Plugins/ButtplugUnreal/].
+for the plugin. For the actual plugin, see [Plugins/ButtplugUnreal](Plugins/ButtplugUnreal).
 
 # Buttplug (for) Unreal
 
